@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakhlaq&show_icons=true&locale=en&layout=compact" alt="imakhlaq" /></p>
 
-<p>&nbsp;<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=imakhlaq&show_icons=true&locale=en" alt="imakhlaq" /></p>
+<p>&nbsp;<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=imakhlaq&show_icons=true&locale=en" alt="imakhlaq" /></p>
 
 <p align="center"><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=imakhlaq&" alt="imakhlaq" /></p>
 
