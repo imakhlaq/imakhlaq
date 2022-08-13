@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imakhlaq?tab=repositories](https://github.com/imakhlaq?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/imakhlaq?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
