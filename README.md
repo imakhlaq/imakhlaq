@@ -6,8 +6,8 @@
 
 <br/>
 <br/>
-<h1 align="center">Hi 👋, I'm Akhlaq</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">Hi 👋, I'm Akhlaq</h2>
+//<h3 align="center">A passionate frontend developer from India</h3>
 <img aligh="right" alt="coding" width="400" src"https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imakhlaq&label=Profile%20views&color=0e75b6&style=flat" alt="imakhlaq" /> </p>
