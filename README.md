@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakhlaq&show_icons=true&locale=en&layout=compact" alt="imakhlaq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakhlaq&show_icons=true&locale=en" alt="imakhlaq" /></p>
+<p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=imakhlaq&show_icons=true&locale=en" alt="imakhlaq" /></p>
 
 <p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=imakhlaq&" alt="imakhlaq" /></p>
