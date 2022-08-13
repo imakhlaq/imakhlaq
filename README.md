@@ -10,9 +10,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imakhlaq&label=Profile%20views&color=0e75b6&style=flat" alt="imakhlaq" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/imakhlaqxd" target="blank"><img src="https://img.shields.io/twitter/follow/imakhlaqxd?logo=twitter&style=for-the-badge" alt="imakhlaqxd" /></a> </p>
 
 - 🔭 I’m currently working on [Natour](https://github.com/imakhlaq/Natories)
@@ -27,7 +24,7 @@
 
 - 📫 How to reach me **imakhlaqXD@gmail.com**
 
-- ⚡ What keeps me going **“As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined.”**
+<p align="center">“As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined.”</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,5 +45,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=imakhlaq&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
