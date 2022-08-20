@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/imakhlaqxd" target="blank"><img src="https://img.shields.io/twitter/follow/imakhlaqxd?logo=twitter&style=for-the-badge" alt="imakhlaqxd" /></a> </p>
+<p align="left" width="120"> <a href="https://twitter.com/imakhlaqxd" target="blank"><img src="https://img.shields.io/twitter/follow/imakhlaqxd?logo=twitter&style=for-the-badge" alt="imakhlaqxd" /></a> </p>
 
 - 🔭 I’m currently working on [Natour](https://github.com/imakhlaq/Natories)
 
