@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center">I'm Akhlaq A passionate Software Engineer from India</h3>
+<h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
