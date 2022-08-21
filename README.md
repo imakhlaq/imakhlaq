@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="360" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left" height="30" width="60"> <a href="https://twitter.com/imakhlaqxd" target="blank"><img src="https://img.shields.io/twitter/follow/imakhlaqxd?logo=twitter&style=for-the-badge" alt="imakhlaqxd" /></a> </p>
 
