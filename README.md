@@ -4,7 +4,7 @@
  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<br/>
+
 
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
