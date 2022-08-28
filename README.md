@@ -3,7 +3,7 @@
   𝐇𝐞𝐥𝐥𝐨 👋, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
  <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
+</h1>
 
 
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
