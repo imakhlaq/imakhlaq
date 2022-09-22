@@ -229,13 +229,10 @@
 <p align="center">
   
   <a href="https://github.com/imakhlaq">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakhlaq&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakhlaq&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
- 
-
- 
   <a href="https://github.com/imakhlaq">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imakhlaq&theme=dark&hide_border=true"/>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imakhlaq&theme=dark&hide_border=true"/>
   </a>
 </p>
 
