@@ -230,8 +230,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imakhlaq&theme=react&hide_border=true)
 
 
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=imakhlaq&theme=react-dark&hide_border=true&area=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imakhlaq&icon=2&color=12)](https://visitcount.itsvg.in)
