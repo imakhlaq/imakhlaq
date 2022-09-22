@@ -225,10 +225,6 @@
 </a> </p>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imakhlaq&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   <br/>
-![](https://github-readme-stats.vercel.app/api?username=imakhlaq&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=imakhlaq&theme=react&hide_border=true)
-
 
 <p align="center">
   <a href="https://github.com/imakhlaq">
