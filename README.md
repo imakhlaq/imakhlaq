@@ -9,25 +9,6 @@
 
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-
-<p align="left" > <a href="https://twitter.com/imakhlaqxd" target="blank"><img src="https://img.shields.io/twitter/follow/imakhlaqxd?logo=twitter&style=for-the-badge" alt="imakhlaqxd" /></a> </p>
-
-- 🌱 I’m currently learning **DataStructure And Algorithm**
-
-- 👯 I’m looking to collaborate on **Anything**
-
-- 👨‍💻 All of my projects are available at [Here](https://github.com/imakhlaq?tab=repositories)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **imakhlaqXD@gmail.com**
-
-- 
-
-
-</br>
-<br/>
 
 <p align="center">“As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined.”</p>
 
