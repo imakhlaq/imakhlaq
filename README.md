@@ -10,7 +10,7 @@
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
 
-<p align="center">“As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined.”</p>
+<p align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -208,7 +208,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 
 
