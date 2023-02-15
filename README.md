@@ -9,7 +9,6 @@
 
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
-  ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
