@@ -10,7 +10,8 @@
 <h3 align="center">I'm Akhlaq a passionate Software Engineer from India</h3>
 
 
-<p align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -205,9 +206,6 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakhlaq&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-
-
-### ✍️ Random Dev Quote
 
 
 
