@@ -98,7 +98,6 @@
                 height="40"
         />
     </a>
-
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -115,7 +114,6 @@
                 height="40"
         />
     </a>
-
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -132,7 +130,6 @@
                 height="40"
         />
     </a>
-
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -141,7 +138,6 @@
                 height="40"
         />
     </a>
-
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -150,8 +146,6 @@
                 height="40"
         />
     </a>
-
-
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img
                 src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
@@ -160,7 +154,6 @@
                 height="40"
         />
     </a>
-
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
         <img
                 src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
@@ -184,7 +177,6 @@
                     height="40"
             />
         </a>
-
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -193,7 +185,6 @@
                     height="40"
             />
         </a>
-
     </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img
@@ -227,7 +218,6 @@
                 height="40"
         />
     </a>
-
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
